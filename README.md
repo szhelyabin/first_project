@@ -8,3 +8,7 @@ RFM Analysis и Cohort Analysis
 3. Сколько у каждого из пользователей в среднем покупок в неделю (по месяцам)?
 4. Используя pandas, провести когортный анализ пользователей. В период с января по декабрь выявить когорту с самым высоким retention на 3й месяц.
 5. Используя python, построим RFM-сегментацию пользователей, чтобы качественно оценить свою аудиторию.
+## Технологии  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
